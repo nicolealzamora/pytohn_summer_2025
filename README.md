@@ -1,7 +1,7 @@
 # python_summer_2025
 
 
-##alumnos
+## alumnos
 
 
 1. Nicole
